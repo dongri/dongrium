@@ -1,1 +1,1 @@
-package main; import "fmt"; func main(){fmt.Println("Dongrify!")}
+package main;import "fmt";func main(){fmt.Println("Dongrify!")}
